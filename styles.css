@@ -6,7 +6,7 @@
 
 body {
     background: #674baf url("images/bg-desktop.svg") no-repeat;
-    background-size: 80%;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
